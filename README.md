@@ -1,7 +1,2 @@
-# SAWeb
-TUGAS 05 dan UAS
-.replit
-
-
-Username : admin
-Password : admin
+Tugas UAS Sistem Aplikasi Web
+Mukhamad Jainur Kholis - 212552018253895
